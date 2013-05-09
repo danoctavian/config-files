@@ -3,3 +3,5 @@ noremap k 5k
 
 map <C-S-PageUp> :tabm -1<CR>
 map <C-S-PageDown> :tabm +1<CR>
+
+:set defsearch=duckduckgo
